@@ -1,0 +1,5 @@
+pygments
+jedi
+googletrans
+winshell
+subprocess
